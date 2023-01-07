@@ -1,4 +1,4 @@
-const Skills = [
+const skills = [
   {text: 'Kickflip', done: true},
   {text: 'No-Comply Shuvit', done: false},
   {text: 'Switch Kickflip', done: true},
